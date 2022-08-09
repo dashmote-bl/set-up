@@ -25,6 +25,7 @@ else
 fi
 
 #Installing Clash
+https://naixisubs.com/downloadConfig/Clash.aspx?eq=windows&urk=ee8e1579-e835-4da7-a52d-08098e256287
 echo -e "${c}Installing Clash VPN"; $r
 wget -O clash.gz https://github.com/Dreamacro/clash/releases/download/v1.4.1/clash-freebsd-amd64-v1.4.1.gz
 gzip -f clash.gz -d
